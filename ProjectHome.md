@@ -1,0 +1,1 @@
+This project is for several Wii homebrew programs that will use HTTP in some way. The first program that I hope to complete will be a simple file downloader with a decent GUI. Afterwards, I will progress to either an RSS reader or a web browser, or possibly both together. I may also put out a library for making HTTP related functionality more easy to implement.
